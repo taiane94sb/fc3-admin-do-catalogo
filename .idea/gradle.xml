@@ -4,6 +4,33 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/application" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/application" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/domain" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/domain" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/infrastructure" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="//wsl$/Ubuntu/home/taianesb/projetos/fullcycle/fc3-admin-do-catalogo/infrastructure" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
